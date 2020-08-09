@@ -1,4 +1,4 @@
-# Wedding-1
+# @Wedding
 
 This is the original/first wedding website
 
